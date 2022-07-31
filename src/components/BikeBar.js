@@ -93,6 +93,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 20,
+    bottom:2
   },
   image: {
     width: 200,
